@@ -21,7 +21,7 @@ Since the file size of Unnobs.txt is also large, the following shell script is u
 DMP_Unn_MPCxxxxxxxx.txt does not contain any observations since the last circular was issued, which means that it does not contain observations from the last two months at most. On the other hand, observations since the issuance of the circular are released every few weeks in the MPS.　
 Therefore, in this DMP_MPS.txt, we have taken the observations from the MPS file(https://data.minorplanetcenter.net/iau/ECS/MPCUPDATE/MidMonthMPS.html) since the last circular was published that have been identified with some object since it was reported in the TDMP.
 Unlike other files, this file also contains Numbered Objects. The process is the same: extract them from the MPS file using a script from obs80_find_COIAS.py with '4' replaced by '0' and “T09” replaced by “G96” in line 26.like
-> python3 obs80_find_COIAS.py UnnObs.txt DMP_MPS241011.txt 
+> python3 obs80_find_COIAS.py t0t_00.obs DMP_MPS241011.txt 
 
 ## DMP_astxxxxxx.txt (xxxxxx:date of update)
 From DMP_Unn_MPCxxxxxxxx.txt and all DMP_MPSxxxxxxxx.txt, we extracted the lines where TDMP is tentatively designated as the finder (or more accurately, the initial reporter) and the observation is marked with *. Thus, the number of lines in this file corresponds to the number of provisional code objects discovered by DMP.
