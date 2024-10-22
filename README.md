@@ -14,6 +14,8 @@ The observations reported by the TDMP were extracted from the ITF (https://minor
 This is an observation file that was reported as an undiscovered object by the TDMP, but was subsequently identified as a provisioal code object. Some of these objects were discovered at other observatories, while others are TDMP discovery observations (or more precisely, Initial Reports).This file was generated from UnnObs.txt (https://data.minorplanetcenter.net/iau/ECS/MPCAT-OBS/UnnObs.txt.gz) from the MPCAT-OBS service using a script from obs80_find_COIAS.py with '4' replaced by '0' and “T09” replaced by “G96” in line 26. and like
 > python3 obs80_find_COIAS.py UnnObs.txt DMP_Unn_MPC240913.txt 
 Included in MPCAT's UnnObs file are observations of unnumbered objects for decades reported to MPC to date, up to the time the most recent circular was issued.
+Since the file size of Unnobs.txt is also large, the following shell script is used in Powershell to split the file in advance so that the python script does not stop in the middle. (In this case, be careful to run the python script with the filename after splitting.)
+> $i=0; Get-Content .\UnnObs.txt -ReadCount 10000000 | % { Write-Output $_ | Out-File -Encoding default UnnObs$i.txt  ;$i++ }
 
 ## DMP_MPSxxxxxx.txt (xxxxxx:date of MPS update)
 DMP_Unn_MPCxxxxxxxx.txt does not contain any observations since the last circular was issued, which means that it does not contain observations from the last two months at most. On the other hand, observations since the issuance of the circular are released every few weeks in the MPS.　
