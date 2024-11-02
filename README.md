@@ -24,14 +24,14 @@ Therefore, in this DMP_MPS.txt, we have taken the observations from the MPS file
 Unlike other files, this file also contains Numbered Objects. The process is the same: extract them from the MPS file using a script from obs80_find_COIAS.py with '4' replaced by '0' and “T09” replaced by “G96” in line 26.like
 > python3 obs80_find_COIAS.py t0t_00.obs DMP_MPS241011.txt 
 
-## DMP_astxxxxxx.txt (xxxxxx:date of update)
+## DMP_ast.txt
 From DMP_Unn_MPCxxxxxxxx.txt and all DMP_MPSxxxxxxxx.txt, we extracted the lines where TDMP is tentatively designated as the finder (or more accurately, the initial reporter) and the observation is marked with *. Thus, the number of lines in this file corresponds to the number of provisional code objects discovered by DMP.
 This is the output file from the two files above that were generated using the script from obs80_find_ast_COIAS.py with '4' replaced by '0' and “T09” replaced by “G96” in line 26. like
-> python3 obs80_find_ast_COIAS.py DMP_Unn_MPC240913.txt DMP_ast241021.txt 
+> python3 obs80_find_ast_COIAS.py DMP_Unn_MPC240913.txt DMP_ast.txt 
 
-## DMP_ORBxxxxxx.txt (xxxxxx:date of update)
+## DMP_ORB.txt 
 This is a list about the trajectories of objects found by DMP, made by matching the objects in DMP_astxxxxxxxx.txt with MPCORB (https://www.minorplanetcenter.net/iau/MPCORB/MPCORB.DAT.gz). The format is the same as (https://www.minorplanetcenter.net/iau/info/MPOrbitFormat.html ). Generated from DMP_astxxxxxxxx.txt using the script mpcorb_find.py.like
-> python3 mpcorb_find.py MPCORB.DAT DMP_ast241022.txt DMP_ORB241022.txt
+> python3 mpcorb_find.py MPCORB.DAT DMP_ast.txt DMP_ORB.txt
 
 ## Note:Numbered Object
 The file size is too large (probably about 35 GB), so objects that were identified as number-registered objects after they were reported from the DMP are not included. If there is a problem due to this, it is that the DMP may have missed objects that were discovered and given numbers by the DMP. If such an object were real, it would be a serious problem, but I expect that no object has yet been given a number with the DMP as the discoverer.
