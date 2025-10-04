@@ -1,0 +1,73 @@
+     K19N69Q ZC2025 02 22.49368 12 34 47.77 -07 25 33.6                V~94xjF52 (LpiJuT000000GzRa010000009) has been identified as 2019 NQ69 and published in MPS  2424031.
+     K19N69Q ZC2025 02 22.50660 12 34 47.35 -07 25 34.9                V~94xjF52 (LpiJuT000000GzRa01000000A) has been identified as 2019 NQ69 and published in MPS  2424031.
+     K19N69Q ZC2025 02 22.51952 12 34 46.94 -07 25 36.2          22.6 GV~94xjF52 (LpiJuT000000GzRa01000000B) has been identified as 2019 NQ69 and published in MPS  2424031.
+     K19N69Q ZC2025 02 22.53245 12 34 46.53 -07 25 37.6          22.7 GV~94xjF52 (LpiJuT000000GzRa01000000C) has been identified as 2019 NQ69 and published in MPS  2424031.
+     K23W53P ZC2025 02 22.49368 12 31 23.15 -07 35 59.0          21.5 GV~953VF52 (LpiJuT000000GzRa01000000H) has been identified as 2023 WP53 and published in MPS  2424389.
+     K23W53P ZC2025 02 22.50660 12 31 22.78 -07 35 58.3          21.5 GV~953VF52 (LpiJuT000000GzRa01000000I) has been identified as 2023 WP53 and published in MPS  2424389.
+     K23W53P ZC2025 02 22.51952 12 31 22.40 -07 35 57.4                V~953VF52 (LpiJuT000000GzRa01000000J) has been identified as 2023 WP53 and published in MPS  2424389.
+     K23W53P ZC2025 02 22.53245 12 31 22.01 -07 35 56.4                V~953VF52 (LpiJuT000000GzRa01000000K) has been identified as 2023 WP53 and published in MPS  2424389.
+     K15HV1Y ZC2025 02 22.49368 12 31 14.73 -07 32 54.1                V~94q9F52 (LpiJuT000000GzRa01000000L) has been identified as 2015 HY311 and published in MPS  2423561.
+     K15HV1Y ZC2025 02 22.51952 12 31 14.15 -07 32 52.7          22.0 GV~94q9F52 (LpiJuT000000GzRa01000000M) has been identified as 2015 HY311 and published in MPS  2423561.
+     K15HV1Y ZC2025 02 22.53245 12 31 13.88 -07 32 51.6          20.3 GV~94q9F52 (LpiJuT000000GzRa01000000N) has been identified as 2015 HY311 and published in MPS  2423561.
+     K14EZ0G ZC2025 02 20.52643 11 44 57.50 +07 07 45.3                V~99s6F52 (LqSKNb000000H5xf010000001) has been identified as 2014 EG350 and published in MPS  2442902.
+     K14EZ0G ZC2025 02 20.53920 11 44 56.86 +07 07 45.0                V~99s6F52 (LqSKNb000000H5xf010000002) has been identified as 2014 EG350 and published in MPS  2442902.
+     K14EZ0G ZC2025 02 20.55192 11 44 56.22 +07 07 45.3          21.6 GV~99s6F52 (LqSKNb000000H5xf010000003) has been identified as 2014 EG350 and published in MPS  2442902.
+     K14EZ0G ZC2025 02 20.56458 11 44 55.54 +07 07 46.1          21.8 GV~99s6F52 (LqSKNb000000H5xf010000004) has been identified as 2014 EG350 and published in MPS  2442902.
+     K14DK9V ZC2025 02 20.52643 11 49 30.48 +06 05 32.5          21.8 GV~99s3F52 (LqSKNb000000H5xf010000005) has been identified as 2014 DV209 and published in MPS  2442899.
+     K14DK9V ZC2025 02 20.53920 11 49 29.91 +06 05 32.1          21.4 GV~99s3F52 (LqSKNb000000H5xf010000006) has been identified as 2014 DV209 and published in MPS  2442899.
+     K14DK9V ZC2025 02 20.55192 11 49 29.37 +06 05 32.1          21.4 GV~99s3F52 (LqSKNb000000H5xf010000007) has been identified as 2014 DV209 and published in MPS  2442899.
+     K14DK9V ZC2025 02 20.56458 11 49 28.82 +06 05 32.0          21.6 GV~99s3F52 (LqSKNb000000H5xf010000008) has been identified as 2014 DV209 and published in MPS  2442899.
+     K04BH4M ZC2025 02 20.52643 11 49 07.90 +07 53 05.4          21.5 GV~99oXF52 (LqSKNb000000H5xf010000009) has been identified as 2004 BM174 and published in MPS  2442681.
+     K04BH4M ZC2025 02 20.53920 11 49 07.45 +07 53 11.9                V~99oXF52 (LqSKNb000000H5xf01000000A) has been identified as 2004 BM174 and published in MPS  2442681.
+     K04BH4M ZC2025 02 20.55192 11 49 06.94 +07 53 18.2          21.4 GV~99oXF52 (LqSKNb000000H5xf01000000B) has been identified as 2004 BM174 and published in MPS  2442681.
+     K04BH4M ZC2025 02 20.56458 11 49 06.51 +07 53 24.6          21.5 GV~99oXF52 (LqSKNb000000H5xf01000000C) has been identified as 2004 BM174 and published in MPS  2442681.
+     K11EB6E ZC2025 02 20.52509 11 51 22.27 +03 24 17.7          21.7 GV~99qdF52 (LqSKNb000000H5xf01000000D) has been identified as 2011 EE116 and published in MPS  2442811.
+     K11EB6E ZC2025 02 20.55062 11 51 21.38 +03 24 27.7          21.9 GV~99qdF52 (LqSKNb000000H5xf01000000E) has been identified as 2011 EE116 and published in MPS  2442811.
+     K11EB6E ZC2025 02 20.56328 11 51 20.90 +03 24 31.9                V~99qdF52 (LqSKNb000000H5xf01000000F) has been identified as 2011 EE116 and published in MPS  2442811.
+     K14DL2Q ZC2025 02 20.52509 11 54 31.25 +03 22 10.2          21.7 GV~99s3F52 (LqSKNb000000H5xf01000000G) has been identified as 2014 DQ212 and published in MPS  2442899.
+     K14DL2Q ZC2025 02 20.53789 11 54 30.77 +03 22 12.4          21.7 GV~99s3F52 (LqSKNb000000H5xf01000000H) has been identified as 2014 DQ212 and published in MPS  2442899.
+     K14DL2Q ZC2025 02 20.55062 11 54 30.37 +03 22 14.9          21.8 GV~99s3F52 (LqSKNb000000H5xf01000000I) has been identified as 2014 DQ212 and published in MPS  2442899.
+     K14DL2Q ZC2025 02 20.56328 11 54 29.90 +03 22 16.9          22.0 GV~99s3F52 (LqSKNb000000H5xf01000000J) has been identified as 2014 DQ212 and published in MPS  2442899.
+     K25D58M ZC2025 02 20.52509 11 56 26.92 +03 53 05.7          21.5 GV~9A1xF52 (LqSKNb000000H5xf01000000K) has been identified as 2025 DM58 and published in MPS  2443513.
+     K25D58M ZC2025 02 20.53789 11 56 26.56 +03 53 25.3          21.4 GV~9A1xF52 (LqSKNb000000H5xf01000000L) has been identified as 2025 DM58 and published in MPS  2443513.
+     K25D58M ZC2025 02 20.55062 11 56 26.23 +03 53 43.5          21.4 GV~9A1xF52 (LqSKNb000000H5xf01000000M) has been identified as 2025 DM58 and published in MPS  2443513.
+     K25D58M ZC2025 02 20.56328 11 56 25.92 +03 54 02.3          21.5 GV~9A1xF52 (LqSKNb000000H5xf01000000N) has been identified as 2025 DM58 and published in MPS  2443513.
+     K14DL3G ZC2025 02 20.52445 12 03 28.81 +02 26 27.5          21.8 GV~99s3F52 (LqSKNb000000H5xf01000000O) has been identified as 2014 DG213 and published in MPS  2442899.
+     K14DL3G ZC2025 02 20.53724 12 03 28.42 +02 26 29.7                V~99s3F52 (LqSKNb000000H5xf01000000P) has been identified as 2014 DG213 and published in MPS  2442899.
+     K14DL3G ZC2025 02 20.54997 12 03 27.96 +02 26 32.4          21.6 GV~99s3F52 (LqSKNb000000H5xf01000000Q) has been identified as 2014 DG213 and published in MPS  2442899.
+     K14DL3G ZC2025 02 20.56263 12 03 27.57 +02 26 34.4                V~99s3F52 (LqSKNb000000H5xf01000000R) has been identified as 2014 DG213 and published in MPS  2442899.
+     K19B15B ZC2025 02 20.52574 11 56 26.52 +05 55 07.9          22.0 GV~99yBF52 (LqSKNb000000H5xf01000000S) has been identified as 2019 BB15 and published in MPS  2443279.
+     K19B15B ZC2025 02 20.53853 11 56 26.07 +05 55 15.3          22.0 GV~99yBF52 (LqSKNb000000H5xf01000000T) has been identified as 2019 BB15 and published in MPS  2443279.
+     K19B15B ZC2025 02 20.55126 11 56 25.72 +05 55 22.0                V~99yBF52 (LqSKNb000000H5xf01000000U) has been identified as 2019 BB15 and published in MPS  2443279.
+     K19B15B ZC2025 02 20.56393 11 56 25.33 +05 55 29.3          21.8 GV~99yBF52 (LqSKNb000000H5xf01000000V) has been identified as 2019 BB15 and published in MPS  2443279.
+     K20HL3Y ZC2025 02 20.52574 11 58 29.19 +07 25 20.6          21.7 GV~99z1F52 (LqSKNb000000H5xf01000000Z) has been identified as 2020 HY213 and published in MPS  2443331.
+     K20HL3Y ZC2025 02 20.53853 11 58 28.65 +07 25 22.7                V~99z1F52 (LqSKNb000000H5xf01000000a) has been identified as 2020 HY213 and published in MPS  2443331.
+     K20HL3Y ZC2025 02 20.55126 11 58 28.15 +07 25 24.4          21.8 GV~99z1F52 (LqSKNb000000H5xf01000000b) has been identified as 2020 HY213 and published in MPS  2443331.
+     K20HL3Y ZC2025 02 20.56393 11 58 27.72 +07 25 26.0          22.0 GV~99z1F52 (LqSKNb000000H5xf01000000c) has been identified as 2020 HY213 and published in MPS  2443331.
+     K20BH9Y ZC2025 02 22.50465 12 28 17.55 -02 06 43.5          21.8 GV~99ywF52 (LqSKNc010000H5xb01000000x) has been identified as 2020 BY179 and published in MPS  2443326.
+     K20BH9Y ZC2025 02 22.51758 12 28 17.18 -02 06 40.2          21.8 GV~99ywF52 (LqSKNc010000H5xb01000000y) has been identified as 2020 BY179 and published in MPS  2443326.
+     K20BH9Y ZC2025 02 22.53051 12 28 16.81 -02 06 36.5          22.0 GV~99ywF52 (LqSKNc010000H5xb01000000z) has been identified as 2020 BY179 and published in MPS  2443326.
+     K25E10L ZC2025 02 22.49111 12 28 18.44 -00 14 23.8          21.4 GV~9A1xF52 (LqSKNc010000H5xY01000000C) has been identified as 2025 EL10 and published in MPS  2443513.
+     K25E10L ZC2025 02 22.50401 12 28 18.34 -00 14 09.2                V~9A1xF52 (LqSKNc010000H5xY01000000D) has been identified as 2025 EL10 and published in MPS  2443513.
+     K25E10L ZC2025 02 22.51695 12 28 18.20 -00 13 54.4          21.5 GV~9A1xF52 (LqSKNc010000H5xY01000000E) has been identified as 2025 EL10 and published in MPS  2443513.
+     K25E10L ZC2025 02 22.52987 12 28 18.09 -00 13 39.8          21.7 GV~9A1xF52 (LqSKNc010000H5xY01000000F) has been identified as 2025 EL10 and published in MPS  2443513.
+     K22QT4H ZC2025 02 22.50401 12 28 22.35 +00 21 28.7          22.0 GV~9A1UF52 (LqSKNc010000H5xY01000000U) has been identified as 2022 QH294 and published in MPS  2443484.
+     K22QT4H ZC2025 02 22.51695 12 28 21.96 +00 21 31.5          22.3 GV~9A1UF52 (LqSKNc010000H5xY01000000V) has been identified as 2022 QH294 and published in MPS  2443484.
+     K22QT4H ZC2025 02 22.52987 12 28 21.56 +00 21 34.3                V~9A1UF52 (LqSKNc010000H5xY01000000W) has been identified as 2022 QH294 and published in MPS  2443484.
+     K06E84B ZC2025 02 22.49111 12 25 29.55 -00 04 50.4          21.7 GV~99opF52 (LqSKNc010000H5xY01000000X) has been identified as 2006 EB84 and published in MPS  2442699.
+     K06E84B ZC2025 02 22.50401 12 25 29.15 -00 04 48.4          22.2 GV~99opF52 (LqSKNc010000H5xY01000000Y) has been identified as 2006 EB84 and published in MPS  2442699.
+     K06E84B ZC2025 02 22.51695 12 25 28.78 -00 04 46.3          21.8 GV~99opF52 (LqSKNc010000H5xY01000000Z) has been identified as 2006 EB84 and published in MPS  2442699.
+     K06E84B ZC2025 02 22.52987 12 25 28.42 -00 04 43.7          21.8 GV~99opF52 (LqSKNc010000H5xY01000000a) has been identified as 2006 EB84 and published in MPS  2442699.
+     K23TK9E ZC2025 02 22.49242 12 29 16.78 -05 33 30.4          22.0 GV~9A1hF52 (LqSKNc010000H5xY01000001R) has been identified as 2023 TE209 and published in MPS  2443497.
+     K23TK9E ZC2025 02 22.51825 12 29 15.99 -05 33 23.8          21.8 GV~9A1hF52 (LqSKNc010000H5xY01000001S) has been identified as 2023 TE209 and published in MPS  2443497.
+     K23TK9E ZC2025 02 22.53119 12 29 15.59 -05 33 20.4          21.8 GV~9A1hF52 (LqSKNc010000H5xY01000001T) has been identified as 2023 TE209 and published in MPS  2443497.
+     K20HH4A ZC2025 02 22.49174 12 33 43.28 -03 20 41.1          22.3 GV~99z1F52 (LqSKNc010000H5xY01000002v) has been identified as 2020 HA174 and published in MPS  2443331.
+     K20HH4A ZC2025 02 22.51758 12 33 42.69 -03 20 35.7          21.9 GV~99z1F52 (LqSKNc010000H5xY01000002w) has been identified as 2020 HA174 and published in MPS  2443331.
+     K20HH4A ZC2025 02 22.53051 12 33 42.37 -03 20 32.7                V~99z1F52 (LqSKNc010000H5xY01000002x) has been identified as 2020 HA174 and published in MPS  2443331.
+     K20P91B ZC2025 07 28.42427 20 50 26.48 -07 41 50.2          21.9 GV~99zIF52 (LqSKNi000000H5xd01000000x) has been identified as 2020 PB91 and published in MPS  2443348.
+     K20P91B ZC2025 07 28.43384 20 50 26.04 -07 41 53.7                V~99zIF52 (LqSKNi000000H5xd01000000y) has been identified as 2020 PB91 and published in MPS  2443348.
+     K20P91B ZC2025 07 28.44343 20 50 25.59 -07 41 57.2          21.6 GV~99zIF52 (LqSKNi000000H5xd01000000z) has been identified as 2020 PB91 and published in MPS  2443348.
+     K20P91B ZC2025 07 28.45304 20 50 25.15 -07 42 00.7          21.8 GV~99zIF52 (LqSKNi000000H5xd010000010) has been identified as 2020 PB91 and published in MPS  2443348.
+     K25O53O ZC2025 07 28.43384 20 48 55.11 -06 58 39.8          22.3 GV~9A2FF52 (LqSKNi000000H5xd01000001T) has been identified as 2025 OO53 and published in MPS  2443531.
+     K25O53O ZC2025 07 28.44343 20 48 54.62 -06 58 40.2          22.0 GV~9A2FF52 (LqSKNi000000H5xd01000001U) has been identified as 2025 OO53 and published in MPS  2443531.
+     K25O53O ZC2025 07 28.45304 20 48 54.14 -06 58 40.8          22.3 GV~9A2FF52 (LqSKNi000000H5xd01000001V) has been identified as 2025 OO53 and published in MPS  2443531.
