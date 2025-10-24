@@ -1,5 +1,4 @@
-20251004
-K19N69Q ZC2025 02 22.49368 12 34 47.77 -07 25 33.6                V~94xjF52 (LpiJuT000000GzRa010000009) has been identified as 2019 NQ69 and published in MPS  2424031.
+     K19N69Q ZC2025 02 22.49368 12 34 47.77 -07 25 33.6                V~94xjF52 (LpiJuT000000GzRa010000009) has been identified as 2019 NQ69 and published in MPS  2424031.
      K19N69Q ZC2025 02 22.50660 12 34 47.35 -07 25 34.9                V~94xjF52 (LpiJuT000000GzRa01000000A) has been identified as 2019 NQ69 and published in MPS  2424031.
      K19N69Q ZC2025 02 22.51952 12 34 46.94 -07 25 36.2          22.6 GV~94xjF52 (LpiJuT000000GzRa01000000B) has been identified as 2019 NQ69 and published in MPS  2424031.
      K19N69Q ZC2025 02 22.53245 12 34 46.53 -07 25 37.6          22.7 GV~94xjF52 (LpiJuT000000GzRa01000000C) has been identified as 2019 NQ69 and published in MPS  2424031.
@@ -72,4 +71,7 @@ K19N69Q ZC2025 02 22.49368 12 34 47.77 -07 25 33.6                V~94xjF52 (Lpi
      K25O53O ZC2025 07 28.43384 20 48 55.11 -06 58 39.8          22.3 GV~9A2FF52 (LqSKNi000000H5xd01000001T) has been identified as 2025 OO53 and published in MPS  2443531.
      K25O53O ZC2025 07 28.44343 20 48 54.62 -06 58 40.2          22.0 GV~9A2FF52 (LqSKNi000000H5xd01000001U) has been identified as 2025 OO53 and published in MPS  2443531.
      K25O53O ZC2025 07 28.45304 20 48 54.14 -06 58 40.8          22.3 GV~9A2FF52 (LqSKNi000000H5xd01000001V) has been identified as 2025 OO53 and published in MPS  2443531.
-
+     IZa0144 ZC2025 07 28.42300 21 01 40.48 -02 38 36.9          22.2 GV     F52
+     IZa0144 ZC2025 07 28.43257 21 01 40.05 -02 38 41.2          22.2 GV     F52
+     IZa0144 ZC2025 07 28.44217 21 01 39.60 -02 38 45.6          22.1 GV     F52
+     IZa0144 ZC2025 07 28.45178 21 01 39.16 -02 38 50.0          22.0 GV     F52
